@@ -8,3 +8,6 @@ faiss-cpu
 langchain-classic
 streamlit
 langchain-ollama
+langchain-groq
+fastapi
+uvicorn
